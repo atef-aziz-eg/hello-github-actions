@@ -3,4 +3,5 @@
 This course will walk you through writing your first action and using it with a workflow file. 
 
 **Ready to get started? Navigate to the first issue.**
-![example branch parameter.](https://github.com/mona/special-octo-eureka/actions/workflows/grading.yml/badge.svg?branch=action-a)
+
+![Main](https://github.com/atef-aziz-eg/hello-github-action/actions/workflows/grading.yml/badge.svg?branch=main)
